@@ -1,0 +1,24 @@
+.card {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  /* gap: calc(100% / 3);    коли  3  елемента*/
+  gap: 24px;
+  width: calc(100% / 5);
+  height: 100%;
+  justify-content: center;
+  align-items: center;
+  border: 2px solid black;
+  border-radius: 6px;
+  .title {
+    font-family: fantasy;
+    font-size: xx-large;
+    font-weight: 500;
+  }
+  .isOnline {
+    color: green;
+  }
+  .isOffline {
+    color: red;
+  }
+}

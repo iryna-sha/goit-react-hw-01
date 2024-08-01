@@ -1,0 +1,33 @@
+[
+    {
+      "avatar": "https://cdn-icons-png.flaticon.com/512/1998/1998592.png",
+      "name": "Манго",
+      "isOnline": true,
+      "id": 1812
+    },
+    {
+      "avatar": "https://cdn-icons-png.flaticon.com/512/616/616438.png",
+      "name": "Ківі",
+      "isOnline": false,
+      "id": 1137
+    },
+    {
+      "avatar": "https://cdn-icons-png.flaticon.com/512/1623/1623681.png",
+      "name": "Аякс",
+      "isOnline": true,
+      "id": 1213
+    },
+    {
+      "avatar": "https://cdn-icons-png.flaticon.com/512/2977/2977285.png",
+      "name": "Джей",
+      "isOnline": true,
+      "id": 1714
+    },
+    {
+      "avatar": "https://cdn-icons-png.flaticon.com/512/1998/1998749.png",
+      "name": "Полі",
+      "isOnline": false,
+      "id": 1284
+    }
+  ]
+  

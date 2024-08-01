@@ -1,0 +1,31 @@
+.wrapper {
+  width: 650px;
+  height: 100%;
+  border:2px solid #322e2e;
+  border-collapse: collapse;
+  margin: auto;
+  background-color: whitesmoke;
+
+  .thead {
+    background-color: #322e2e;
+    color: #ffffff;
+    font-size: x-large;
+    font-family: monospace;
+    font-weight: 300;
+    /* border: ; */
+    
+  }
+  .tbody{
+    margin: 0px;
+    font-size: x-large;
+    font-family: monospace;
+    font-weight: 300;
+
+    border: 2px solid black;
+    text-align: center;
+
+    border-collapse: collapse;
+    
+  }
+  .tr:nth-child(even) {background-color: #7d7b7b63;}
+}
